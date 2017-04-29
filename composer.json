@@ -1,0 +1,12 @@
+{
+    "name": "itsense/laravel-observe",
+    "description": "Observator plugin for Laravel 5",
+    "authors": [
+        {
+            "name": "Fredrik Hugås",
+            "email": "fhugas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
